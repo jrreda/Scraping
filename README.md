@@ -1,6 +1,6 @@
-# Scrapping
+# Scraping
 
-Some web scraping projects using: `BeautifulSoup`, `requests` & sends emails using `smtplib`.
+Some web scraping projects using: `BeautifulSoup`, `requests` & send emails using `smtplib`.
 
 The scrapped websites:
 
