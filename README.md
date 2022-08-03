@@ -1,3 +1,12 @@
-# Automation
+# Scrapping
 
-Some Automation & scrapping projects using `Selenium`, `BeautifulSoup`, `requests` & sends mails using `smtplib`
+Some scrapping projects using `BeautifulSoup`, `requests` & sends mails using `smtplib`.
+
+The scrapped websites:
+
+- [The Hacker News](https://github.com/jrreda/Scrapping/blob/main/hacker_news_scrapper.py).
+- [OLX](https://github.com/jrreda/Scrapping/blob/main/olx_scrapper.py).
+- [Amazon EG](https://github.com/jrreda/Scrapping/blob/main/price_tracker.py).
+
+
+Mailing module: [send_mail.py](https://github.com/jrreda/Scrapping/blob/main/send_mail.py).
